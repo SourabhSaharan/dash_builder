@@ -61,10 +61,10 @@ dash_builder/
 ## 📸 Screenshots
 
 ### Home Page
-![Home](assets/home.png)
+![Home](assets/home_page.png)
 
 ### Dashboard View
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard_page.png)
 
 ---
 
